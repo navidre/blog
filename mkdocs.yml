@@ -1,0 +1,5 @@
+site_name: Navid Rezaei - Blog
+theme:
+  name: material
+plugins:
+  - blog
